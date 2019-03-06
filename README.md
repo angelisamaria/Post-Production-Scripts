@@ -3,8 +3,8 @@ Ongoing repository of ExtendScript files used to automate work in Adobe programs
 
 ## Script Breakdown and Usage
 ### After Effects
-#### Titles and Cuts
+* Titles and Cuts
 ### Photoshop
-#### In progress
+* In progress
 ### Bridge
-#### In Progress
+* In Progress
